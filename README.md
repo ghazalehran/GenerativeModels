@@ -20,5 +20,5 @@ This repository contains implementations and tutorials for various generative an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GenerativeModels.git
+   git clone https://github.com/ghazalehran/GenerativeModels.git
    cd GenerativeModels
